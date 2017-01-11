@@ -18,8 +18,9 @@ require_once('PageTemplate.php')
 <nav >
     <div class="nav-wrapper container">
 
-        <a id="logo-container" href="index.php" class="brand-logo amber-text accent-1">
-            Workshop Webdesign </a>
+        <a id="logo-container" href="index.php" class="brand-logo grey-text lighten-3">
+            Workshop Webdesign
+           </a>
 
         <ul class="right hide-on-med-and-down">
             <li><a class="white-text" href="programm.php">Programm</a></li>
@@ -28,16 +29,18 @@ require_once('PageTemplate.php')
             <li><a class="white-text" href="contact.php">Kontakt</a></li>
             <li><a class="white-text" href="#">Links</a></li>
         </ul>
+
         <ul id="nav-mobile" class="side-nav">
-            <li><a class="white-text" href="programm.php"><i class="material-icons amber-text accent-1">event</i>Programm</a></li>
-            <li><a class="white-text" href="umfrage.php"><i class="material-icons amber-text accent-1">check circle</i>Umfrage</a></li>
-            <li><a class="white-text" href="#"><i class="material-icons amber-text accent-1">work</i>Projekte</a></li>
-            <li><a class="white-text" href="contact.php"><i class="material-icons amber-text accent-1">contacts</i>Kontakt</a></li>
-            <li><a class="white-text" href="#"><i class="material-icons amber-text accent-1">link</i>Links</a></li>
+            <li><a class="white-text" href="programm.php"><i class="material-icons grey-text lighten-3">event</i>Programm</a></li>
+            <li><a class="white-text" href="umfrage.php"><i class="material-icons grey-text lighten-3">check circle</i>Umfrage</a></li>
+            <li><a class="white-text" href="#"><i class="material-icons grey-text lighten-3">work</i>Projekte</a></li>
+            <li><a class="white-text" href="contact.php"><i class="material-icons grey-text lighten-3">contacts</i>Kontakt</a></li>
+            <li><a class="white-text" href="#"><i class="material-icons grey-text lighten-3">link</i>Links</a></li>
         </ul>
-        <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+        <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons brand-logo white-text">menu</i></a>
 
     </div>
+
 </nav>
     <div>
         <?php if(isset($TPL->ContentBody)) { include $TPL->ContentBody; } ?>
@@ -47,19 +50,17 @@ require_once('PageTemplate.php')
     <div class="container">
         <div class="row">
             <div class="col l6 s12">
-                <h5 class="amber-text accent-1">Workshop Webdesign</h5>
-                <p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
+                <h5 class="grey-text lighten-3">Workshop Webdesign</h5>
+
+
+
+                    <a class="grey-text text-lighten-3" href="programm.php">Programm //</a>
+                    <a class="grey-text text-lighten-3" href="umfrage.php">Umfrage //</a>
+                    <a class="grey-text text-lighten-3" href="#!">Projekte //</a>
+                    <a class="grey-text text-lighten-3" href="contact.php">Kontakte //</a>
+                    <a class="grey-text text-lighten-3" href="#!">Links</a>
             </div>
-            <div class="col l4 offset-l2 s12">
-                <h5 class="amber-text accent-1">Links</h5>
-                <ul>
-                    <li><a class="grey-text text-lighten-3" href="programm.php">Programm</a></li>
-                    <li><a class="grey-text text-lighten-3" href="umfrage.php">Umfrage</a></li>
-                    <li><a class="grey-text text-lighten-3" href="#!">Projekte</a></li>
-                    <li><a class="grey-text text-lighten-3" href="contact.php">Kontakte</a></li>
-                    <li><a class="grey-text text-lighten-3" href="#!">Links</a></li>
-                </ul>
-            </div>
+
         </div>
     </div>
     <div class="footer-copyright">

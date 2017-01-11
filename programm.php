@@ -18,7 +18,7 @@ if (!isset($TPL)) {
 ?>
 
 <div class="parallax-container">
-    <div class="parallax"><img src="background2.jpg"></div>
+    <div class="parallax"><img src="background1.jpg"></div>
 </div>
 <div class="section white">
     <div class="row container">
@@ -45,15 +45,15 @@ if (!isset($TPL)) {
             <div class="card-content white-text">
                 <span class="card-title">Einführung Workshop</span>
                 <h6 class="bold">Lernziele</h6>
-                <p class= "bold amber-text accent-1">Workshop Webdesign</p>
+                <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
                 <p class= "light">Vorstellen, Überblick, Ziele</p>
-                <p class= "bold amber-text accent-1">Workshop Thema</p>
+                <p class= "bold grey-text lighten-3">Workshop Thema</p>
                 <p class= "light">Responsiv Webdesign</p>
-                <p class= "bold amber-text accent-1">Vortrag</p>
+                <p class= "bold grey-text lighten-3">Vortrag</p>
                 <p class= "light">Webhistory - Das WWW - Universum</p>
             </div>
             <div class="card-action ">
-                <a class="amber-text accent-1" href="#">This is a link</a>
+                <a class="grey-text lighten-3" href="#">This is a link</a>
             </div>
         </div>
     </div>
@@ -65,15 +65,15 @@ if (!isset($TPL)) {
             <div class="card-content white-text">
                 <span class="card-title">Einführung Workshop</span>
                 <h6 class="bold">Lernziele</h6>
-                <p class= "bold amber-text accent-1">Workshop Webdesign</p>
+                <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
                 <p class= "light">Vorstellen, Überblick, Ziele</p>
-                <p class= "bold amber-text accent-1">Workshop Thema</p>
+                <p class= "bold grey-text lighten-3">Workshop Thema</p>
                 <p class= "light">Responsiv Webdesign</p>
-                <p class= "bold amber-text accent-1">Vortrag</p>
+                <p class= "bold grey-text lighten-3">Vortrag</p>
                 <p class= "light">Webhistory - Das WWW - Universum</p>
             </div>
             <div class="card-action ">
-                <a class="amber-text accent-1" href="#">This is a link</a>
+                <a class="grey-text lighten-3" href="#">This is a link</a>
             </div>
         </div>
     </div>
@@ -85,15 +85,15 @@ if (!isset($TPL)) {
             <div class="card-content white-text">
                 <span class="card-title">Einführung Workshop</span>
                 <h6 class="bold">Lernziele</h6>
-                <p class= "bold amber-text accent-1">Workshop Webdesign</p>
+                <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
                 <p class= "light">Vorstellen, Überblick, Ziele</p>
-                <p class= "bold amber-text accent-1">Workshop Thema</p>
+                <p class= "bold grey-text lighten-3">Workshop Thema</p>
                 <p class= "light">Responsiv Webdesign</p>
-                <p class= "bold amber-text accent-1">Vortrag</p>
+                <p class= "bold grey-text lighten-3">Vortrag</p>
                 <p class= "light">Webhistory - Das WWW - Universum</p>
             </div>
             <div class="card-action ">
-                <a class="amber-text accent-1" href="#">This is a link</a>
+                <a class="grey-text lighten-3" href="#">This is a link</a>
             </div>
         </div>
     </div>
@@ -102,7 +102,7 @@ if (!isset($TPL)) {
 </div>
 
 <div class="parallax-container">
-    <div class="parallax"><img src="background2.jpg"></div>
+    <div class="parallax"><img src="background1.jpg"></div>
 </div>
 <div class="section white">
     <div class="row container">
@@ -118,15 +118,15 @@ if (!isset($TPL)) {
             <div class="card-content white-text">
                 <span class="card-title">Einführung Workshop</span>
                 <h6 class="bold">Lernziele</h6>
-                <p class= "bold amber-text accent-1">Workshop Webdesign</p>
+                <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
                 <p class= "light">Vorstellen, Überblick, Ziele</p>
-                <p class= "bold amber-text accent-1">Workshop Thema</p>
+                <p class= "bold grey-text lighten-3">Workshop Thema</p>
                 <p class= "light">Responsiv Webdesign</p>
-                <p class= "bold amber-text accent-1">Vortrag</p>
+                <p class= "bold grey-text lighten-3">Vortrag</p>
                 <p class= "light">Webhistory - Das WWW - Universum</p>
             </div>
             <div class="card-action ">
-                <a class="amber-text accent-1" href="#">This is a link</a>
+                <a class="grey-text lighten-3" href="#">This is a link</a>
             </div>
         </div>
     </div>
@@ -138,15 +138,15 @@ if (!isset($TPL)) {
             <div class="card-content white-text">
                 <span class="card-title">Einführung Workshop</span>
                 <h6 class="bold">Lernziele</h6>
-                <p class= "bold amber-text accent-1">Workshop Webdesign</p>
+                <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
                 <p class= "light">Vorstellen, Überblick, Ziele</p>
-                <p class= "bold amber-text accent-1">Workshop Thema</p>
+                <p class= "bold grey-text lighten-3">Workshop Thema</p>
                 <p class= "light">Responsiv Webdesign</p>
-                <p class= "bold amber-text accent-1">Vortrag</p>
+                <p class= "bold grey-text lighten-3">Vortrag</p>
                 <p class= "light">Webhistory - Das WWW - Universum</p>
             </div>
             <div class="card-action ">
-                <a class="amber-text accent-1" href="#">This is a link</a>
+                <a class="grey-text lighten-3" href="#">This is a link</a>
             </div>
         </div>
     </div>
@@ -158,15 +158,15 @@ if (!isset($TPL)) {
             <div class="card-content white-text">
                 <span class="card-title">Einführung Workshop</span>
                 <h6 class="bold">Lernziele</h6>
-                <p class= "bold amber-text accent-1">Workshop Webdesign</p>
+                <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
                 <p class= "light">Vorstellen, Überblick, Ziele</p>
-                <p class= "bold amber-text accent-1">Workshop Thema</p>
+                <p class= "bold grey-text lighten-3">Workshop Thema</p>
                 <p class= "light">Responsiv Webdesign</p>
-                <p class= "bold amber-text accent-1">Vortrag</p>
+                <p class= "bold grey-text lighten-3">Vortrag</p>
                 <p class= "light">Webhistory - Das WWW - Universum</p>
             </div>
             <div class="card-action ">
-                <a class="amber-text accent-1" href="#">This is a link</a>
+                <a class="grey-text lighten-3" href="#">This is a link</a>
             </div>
         </div>
     </div>
@@ -176,7 +176,7 @@ if (!isset($TPL)) {
 
 
 <div class="parallax-container">
-    <div class="parallax"><img src="background2.jpg"></div>
+    <div class="parallax"><img src="background1.jpg"></div>
 </div>
 <div class="section white">
     <div class="row container">

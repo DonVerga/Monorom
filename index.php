@@ -19,7 +19,7 @@ if (!isset($TPL)) {
 
 
 <div class="parallax-container">
-    <div class="parallax"><img src="background3.jpg"></div>
+    <div class="parallax"><img src="background1.jpg"></div>
 </div>
 <div class="section white">
     <div class="row container">
