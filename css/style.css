@@ -11,6 +11,7 @@ nav .brand-logo {
   color: #444;
 }
 
+
 p {
   line-height: 2rem;
 }
@@ -54,6 +55,7 @@ p {
 
 footer.page-footer {
   margin: 0;
+  background-color: maroon;
 }
 @media only screen and (max-width: 992px) {
   nav .brand-logo {
@@ -61,4 +63,24 @@ footer.page-footer {
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
   }
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+  .nav-wrapper .side-nav{
+    background-color: maroon;
+  }
+  nav {
+    color: #fff;
+    background-color: maroon;
+    width: 100%;
+    height: 56px;
+    line-height: 56px;
+  }
+
 }

@@ -39,63 +39,66 @@ if (!isset($TPL)) {
 
 <!-- Test-->
 <div class="row container">
+    <!--New Card-->
     <div class="col s12 m4">
-        <div class="card blue-grey darken-1">
+        <div class="card   red darken-4">
             <div class="card-content white-text">
                 <span class="card-title">Einführung Workshop</span>
-                <h6 class="light">Lernziele</h6>
-                <p class= "bold">Workshop Webdesign</p>
+                <h6 class="bold">Lernziele</h6>
+                <p class= "bold amber-text accent-1">Workshop Webdesign</p>
                 <p class= "light">Vorstellen, Überblick, Ziele</p>
-                <p class= "bold">Workshop Thema</p>
+                <p class= "bold amber-text accent-1">Workshop Thema</p>
                 <p class= "light">Responsiv Webdesign</p>
-                <p class= "bold">Vortrag</p>
+                <p class= "bold amber-text accent-1">Vortrag</p>
                 <p class= "light">Webhistory - Das WWW - Universum</p>
             </div>
-            <div class="card-action">
-                <a href="#">This is a link</a>
+            <div class="card-action ">
+                <a class="amber-text accent-1" href="#">This is a link</a>
             </div>
         </div>
     </div>
 
 
-<!-- Test-->
-
+    <!--New Card-->
     <div class="col s12 m4">
-        <div class="card blue-grey darken-1">
+        <div class="card   red darken-4">
             <div class="card-content white-text">
                 <span class="card-title">Einführung Workshop</span>
-                <h6 class="light">Lernziele</h6>
-                <p class= "bold">Workshop Webdesign</p>
+                <h6 class="bold">Lernziele</h6>
+                <p class= "bold amber-text accent-1">Workshop Webdesign</p>
                 <p class= "light">Vorstellen, Überblick, Ziele</p>
-                <p class= "bold">Workshop Thema</p>
+                <p class= "bold amber-text accent-1">Workshop Thema</p>
                 <p class= "light">Responsiv Webdesign</p>
-                <p class= "bold">Vortrag</p>
+                <p class= "bold amber-text accent-1">Vortrag</p>
                 <p class= "light">Webhistory - Das WWW - Universum</p>
             </div>
-            <div class="card-action">
-                <a href="#">This is a link</a>
+            <div class="card-action ">
+                <a class="amber-text accent-1" href="#">This is a link</a>
             </div>
         </div>
     </div>
 
-    <!--Test-->
+
+    <!--New Card-->
     <div class="col s12 m4">
-        <div class="card blue-grey darken-1">
+        <div class="card   red darken-4">
             <div class="card-content white-text">
                 <span class="card-title">Einführung Workshop</span>
-                <h6 class="light">Lernziele</h6>
-                <p class= "bold">Workshop Webdesign</p>
+                <h6 class="bold">Lernziele</h6>
+                <p class= "bold amber-text accent-1">Workshop Webdesign</p>
                 <p class= "light">Vorstellen, Überblick, Ziele</p>
-                <p class= "bold">Workshop Thema</p>
+                <p class= "bold amber-text accent-1">Workshop Thema</p>
                 <p class= "light">Responsiv Webdesign</p>
-                <p class= "bold">Vortrag</p>
+                <p class= "bold amber-text accent-1">Vortrag</p>
                 <p class= "light">Webhistory - Das WWW - Universum</p>
             </div>
-            <div class="card-action">
-                <a href="#">This is a link</a>
+            <div class="card-action ">
+                <a class="amber-text accent-1" href="#">This is a link</a>
             </div>
         </div>
     </div>
+</div>
+
 </div>
 
 <div class="parallax-container">
@@ -107,64 +110,68 @@ if (!isset($TPL)) {
 </div>
 
 
+<!-- Test-->
 <div class="row container">
+    <!--New Card-->
     <div class="col s12 m4">
-        <div class="card blue-grey darken-1">
+        <div class="card   red darken-4">
             <div class="card-content white-text">
                 <span class="card-title">Einführung Workshop</span>
-                <h6 class="light">Lernziele</h6>
-                <p class= "bold">Workshop Webdesign</p>
+                <h6 class="bold">Lernziele</h6>
+                <p class= "bold amber-text accent-1">Workshop Webdesign</p>
                 <p class= "light">Vorstellen, Überblick, Ziele</p>
-                <p class= "bold">Workshop Thema</p>
+                <p class= "bold amber-text accent-1">Workshop Thema</p>
                 <p class= "light">Responsiv Webdesign</p>
-                <p class= "bold">Vortrag</p>
+                <p class= "bold amber-text accent-1">Vortrag</p>
                 <p class= "light">Webhistory - Das WWW - Universum</p>
             </div>
-            <div class="card-action">
-                <a href="#">This is a link</a>
+            <div class="card-action ">
+                <a class="amber-text accent-1" href="#">This is a link</a>
             </div>
         </div>
     </div>
 
 
-    <!-- Test-->
-
+    <!--New Card-->
     <div class="col s12 m4">
-        <div class="card blue-grey darken-1">
+        <div class="card   red darken-4">
             <div class="card-content white-text">
                 <span class="card-title">Einführung Workshop</span>
-                <h6 class="light">Lernziele</h6>
-                <p class= "bold">Workshop Webdesign</p>
+                <h6 class="bold">Lernziele</h6>
+                <p class= "bold amber-text accent-1">Workshop Webdesign</p>
                 <p class= "light">Vorstellen, Überblick, Ziele</p>
-                <p class= "bold">Workshop Thema</p>
+                <p class= "bold amber-text accent-1">Workshop Thema</p>
                 <p class= "light">Responsiv Webdesign</p>
-                <p class= "bold">Vortrag</p>
+                <p class= "bold amber-text accent-1">Vortrag</p>
                 <p class= "light">Webhistory - Das WWW - Universum</p>
             </div>
-            <div class="card-action">
-                <a href="#">This is a link</a>
+            <div class="card-action ">
+                <a class="amber-text accent-1" href="#">This is a link</a>
             </div>
         </div>
     </div>
 
-    <!--Test-->
+
+    <!--New Card-->
     <div class="col s12 m4">
-        <div class="card blue-grey darken-1">
+        <div class="card   red darken-4">
             <div class="card-content white-text">
                 <span class="card-title">Einführung Workshop</span>
-                <h6 class="light">Lernziele</h6>
-                <p class= "bold">Workshop Webdesign</p>
+                <h6 class="bold">Lernziele</h6>
+                <p class= "bold amber-text accent-1">Workshop Webdesign</p>
                 <p class= "light">Vorstellen, Überblick, Ziele</p>
-                <p class= "bold">Workshop Thema</p>
+                <p class= "bold amber-text accent-1">Workshop Thema</p>
                 <p class= "light">Responsiv Webdesign</p>
-                <p class= "bold">Vortrag</p>
+                <p class= "bold amber-text accent-1">Vortrag</p>
                 <p class= "light">Webhistory - Das WWW - Universum</p>
             </div>
-            <div class="card-action">
-                <a href="#">This is a link</a>
+            <div class="card-action ">
+                <a class="amber-text accent-1" href="#">This is a link</a>
             </div>
         </div>
     </div>
+</div>
+
 </div>
 
 
