@@ -53,7 +53,7 @@ if (!isset($TPL)) {
                 <p class= "light">Webhistory - Das WWW - Universum</p>
             </div>
             <div class="card-action ">
-                <a class="grey-text lighten-3" href="#">This is a link</a>
+                <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
             </div>
         </div>
     </div>
@@ -73,7 +73,7 @@ if (!isset($TPL)) {
                 <p class= "light">Webhistory - Das WWW - Universum</p>
             </div>
             <div class="card-action ">
-                <a class="grey-text lighten-3" href="#">This is a link</a>
+                <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
             </div>
         </div>
     </div>
@@ -93,7 +93,7 @@ if (!isset($TPL)) {
                 <p class= "light">Webhistory - Das WWW - Universum</p>
             </div>
             <div class="card-action ">
-                <a class="grey-text lighten-3" href="#">This is a link</a>
+                <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
             </div>
         </div>
     </div>
@@ -126,7 +126,7 @@ if (!isset($TPL)) {
                 <p class= "light">Webhistory - Das WWW - Universum</p>
             </div>
             <div class="card-action ">
-                <a class="grey-text lighten-3" href="#">This is a link</a>
+                <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
             </div>
         </div>
     </div>
@@ -146,7 +146,7 @@ if (!isset($TPL)) {
                 <p class= "light">Webhistory - Das WWW - Universum</p>
             </div>
             <div class="card-action ">
-                <a class="grey-text lighten-3" href="#">This is a link</a>
+                <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
             </div>
         </div>
     </div>
@@ -154,6 +154,7 @@ if (!isset($TPL)) {
 
     <!--New Card-->
     <div class="col s12 m4">
+        <a href="#">
         <div class="card   red darken-4">
             <div class="card-content white-text">
                 <span class="card-title">Einführung Workshop</span>
@@ -166,9 +167,10 @@ if (!isset($TPL)) {
                 <p class= "light">Webhistory - Das WWW - Universum</p>
             </div>
             <div class="card-action ">
-                <a class="grey-text lighten-3" href="#">This is a link</a>
+                <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
             </div>
         </div>
+        </a>
     </div>
 </div>
 

@@ -31,7 +31,7 @@ require_once('PageTemplate.php')
         </ul>
 
         <ul id="nav-mobile" class="side-nav">
-            <li><a class="white-text" href="programm.php"><i class="material-icons grey-text lighten-3">event</i>Programm</a></li>
+            <li><a class="grey-text lighten-3" href="programm.php"><i class="material-icons grey-text lighten-3">event</i>Programm</a></li>
             <li><a class="white-text" href="umfrage.php"><i class="material-icons grey-text lighten-3">check circle</i>Umfrage</a></li>
             <li><a class="white-text" href="#"><i class="material-icons grey-text lighten-3">work</i>Projekte</a></li>
             <li><a class="white-text" href="contact.php"><i class="material-icons grey-text lighten-3">contacts</i>Kontakt</a></li>
