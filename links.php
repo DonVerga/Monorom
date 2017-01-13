@@ -41,7 +41,7 @@ if (!isset($TPL)) {
 		
 		<div class="row container">
 			<div class="col s12 m12">
-		<ul class="collapsible" data-collapsible="accordion">
+		<ul class="collapsible popout" data-collapsible="accordion">
 			<!-- 1. Ebene -->
 			<li>
 				<div class="collapsible-header red darken-4 white-text">Woche 1</div>
