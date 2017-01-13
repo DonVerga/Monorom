@@ -61,14 +61,14 @@ if (!isset($TPL)) {
         <a href="#">
             <div class="card   red darken-4">
                 <div class="card-content white-text">
-                    <span class="card-title">Einführung Workshop</span>
-                    <h6 class="bold">Lernziele</h6>
-                    <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
-                    <p class= "light">Vorstellen, Überblick, Ziele</p>
-                    <p class= "bold grey-text lighten-3">Workshop Thema</p>
-                    <p class= "light">Responsiv Webdesign</p>
+                    <span class="card-title">HTML5</span>
+                    <h6 class="bold"></h6>
+                    <p class= "bold grey-text lighten-3">Präsentation</p>
+                    <p class= "light">Website-Analyse</p>
                     <p class= "bold grey-text lighten-3">Vortrag</p>
-                    <p class= "light">Webhistory - Das WWW - Universum</p>
+                    <p class= "light">HTML Geschichte, Semantik, Struktur, Versionen & Syntax</p>
+                    <p class= "bold grey-text lighten-3">Aufgabe</p>
+                    <p class= "light">Online-Learning Tools</p>
                 </div>
                 <div class="card-action ">
                     <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
