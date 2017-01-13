@@ -89,3 +89,11 @@ footer.page-footer {
   }
 
 }
+
+/* für nested collapsible (link liste)*/
+.collapsible  .collapsible {
+  margin: 0;
+  border: none;
+  padding: none;
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0), 0 0px 0px 0 rgba(0, 0, 0, 0), 0 0px 0px 0px rgba(0, 0, 0, 0);
+}
