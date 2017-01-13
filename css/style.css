@@ -97,3 +97,8 @@ footer.page-footer {
   padding: none;
   box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0), 0 0px 0px 0 rgba(0, 0, 0, 0), 0 0px 0px 0px rgba(0, 0, 0, 0);
 }
+
+/*color for links */
+.collection a.collection-item {
+  color: #0087AC;
+}
