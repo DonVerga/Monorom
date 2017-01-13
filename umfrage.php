@@ -62,8 +62,8 @@ if (!isset($TPL)) {
                 <form class="col s12">
                     <div class="row">
                         <div class="input-field col s12">
-                            <textarea id="textarea1" class="materialize-textarea"></textarea>
-                            <label for="textarea1">Sonstiges:</label>
+                            <textarea id="sonstiges" class="materialize-textarea"></textarea>
+                            <label for="sonstiges">Sonstiges:</label>
                         </div>
                     </div>
                 </form>
@@ -77,6 +77,6 @@ if (!isset($TPL)) {
     $(document).ready(function() {
         Materialize.updateTextFields();
     });</script>
-    <script>$('#textarea1').val('New Text');
-        $('#textarea1').trigger('autoresize');
+    <script>$('#sonstiges').val('New Text');
+        $('#sonstiges').trigger('autoresize');
     </script>

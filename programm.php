@@ -25,157 +25,81 @@ if (!isset($TPL)) {
     </div>
 </div>
 
-
-<div class="container">
-        <div class="container">
-    </div>
-</div>
-
     <div class="section white">
         <div class="row container">
             <h2 class="header">Programm 2016</h2>
             </div>
     </div>
 
-<!-- Test-->
-<div class="row container">
-    <!--New Card-->
-    <div class="col s12 m4">
-        <div class="card   red darken-4">
-            <div class="card-content white-text">
-                <span class="card-title">Einführung Workshop</span>
-                <h6 class="bold">Lernziele</h6>
-                <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
-                <p class= "light">Vorstellen, Überblick, Ziele</p>
-                <p class= "bold grey-text lighten-3">Workshop Thema</p>
-                <p class= "light">Responsiv Webdesign</p>
-                <p class= "bold grey-text lighten-3">Vortrag</p>
-                <p class= "light">Webhistory - Das WWW - Universum</p>
-            </div>
-            <div class="card-action ">
-                <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
-            </div>
-        </div>
-    </div>
-
-
-    <!--New Card-->
-    <div class="col s12 m4">
-        <div class="card   red darken-4">
-            <div class="card-content white-text">
-                <span class="card-title">Einführung Workshop</span>
-                <h6 class="bold">Lernziele</h6>
-                <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
-                <p class= "light">Vorstellen, Überblick, Ziele</p>
-                <p class= "bold grey-text lighten-3">Workshop Thema</p>
-                <p class= "light">Responsiv Webdesign</p>
-                <p class= "bold grey-text lighten-3">Vortrag</p>
-                <p class= "light">Webhistory - Das WWW - Universum</p>
-            </div>
-            <div class="card-action ">
-                <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
-            </div>
-        </div>
-    </div>
-
-
-    <!--New Card-->
-    <div class="col s12 m4">
-        <div class="card   red darken-4">
-            <div class="card-content white-text">
-                <span class="card-title">Einführung Workshop</span>
-                <h6 class="bold">Lernziele</h6>
-                <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
-                <p class= "light">Vorstellen, Überblick, Ziele</p>
-                <p class= "bold grey-text lighten-3">Workshop Thema</p>
-                <p class= "light">Responsiv Webdesign</p>
-                <p class= "bold grey-text lighten-3">Vortrag</p>
-                <p class= "light">Webhistory - Das WWW - Universum</p>
-            </div>
-            <div class="card-action ">
-                <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
-            </div>
-        </div>
-    </div>
-</div>
-
-</div>
-
-<div class="parallax-container">
-    <div class="parallax"><img src="background1.jpg"></div>
-</div>
-<div class="section white">
-    <div class="row container">
-              </div>
-</div>
-
 
 <!-- Test-->
 <div class="row container">
     <!--New Card-->
     <div class="col s12 m4">
-        <div class="card   red darken-4">
-            <div class="card-content white-text">
-                <span class="card-title">Einführung Workshop</span>
-                <h6 class="bold">Lernziele</h6>
-                <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
-                <p class= "light">Vorstellen, Überblick, Ziele</p>
-                <p class= "bold grey-text lighten-3">Workshop Thema</p>
-                <p class= "light">Responsiv Webdesign</p>
-                <p class= "bold grey-text lighten-3">Vortrag</p>
-                <p class= "light">Webhistory - Das WWW - Universum</p>
+        <a href="#">
+            <div class="card   red darken-4">
+                <div class="card-content white-text">
+                    <span class="card-title">Einführung Workshop</span>
+                    <h6 class="bold">Lernziele</h6>
+                    <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
+                    <p class= "light">Vorstellen, Überblick, Ziele</p>
+                    <p class= "bold grey-text lighten-3">Workshop Thema</p>
+                    <p class= "light">Responsiv Webdesign</p>
+                    <p class= "bold grey-text lighten-3">Vortrag</p>
+                    <p class= "light">Webhistory - Das WWW - Universum</p>
+                </div>
+                <div class="card-action ">
+                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
+                </div>
             </div>
-            <div class="card-action ">
-                <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
-            </div>
-        </div>
-    </div>
-
-
-    <!--New Card-->
-    <div class="col s12 m4">
-        <div class="card   red darken-4">
-            <div class="card-content white-text">
-                <span class="card-title">Einführung Workshop</span>
-                <h6 class="bold">Lernziele</h6>
-                <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
-                <p class= "light">Vorstellen, Überblick, Ziele</p>
-                <p class= "bold grey-text lighten-3">Workshop Thema</p>
-                <p class= "light">Responsiv Webdesign</p>
-                <p class= "bold grey-text lighten-3">Vortrag</p>
-                <p class= "light">Webhistory - Das WWW - Universum</p>
-            </div>
-            <div class="card-action ">
-                <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
-            </div>
-        </div>
+        </a>
     </div>
 
 
     <!--New Card-->
     <div class="col s12 m4">
         <a href="#">
-        <div class="card   red darken-4">
-            <div class="card-content white-text">
-                <span class="card-title">Einführung Workshop</span>
-                <h6 class="bold">Lernziele</h6>
-                <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
-                <p class= "light">Vorstellen, Überblick, Ziele</p>
-                <p class= "bold grey-text lighten-3">Workshop Thema</p>
-                <p class= "light">Responsiv Webdesign</p>
-                <p class= "bold grey-text lighten-3">Vortrag</p>
-                <p class= "light">Webhistory - Das WWW - Universum</p>
+            <div class="card   red darken-4">
+                <div class="card-content white-text">
+                    <span class="card-title">Einführung Workshop</span>
+                    <h6 class="bold">Lernziele</h6>
+                    <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
+                    <p class= "light">Vorstellen, Überblick, Ziele</p>
+                    <p class= "bold grey-text lighten-3">Workshop Thema</p>
+                    <p class= "light">Responsiv Webdesign</p>
+                    <p class= "bold grey-text lighten-3">Vortrag</p>
+                    <p class= "light">Webhistory - Das WWW - Universum</p>
+                </div>
+                <div class="card-action ">
+                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
+                </div>
             </div>
-            <div class="card-action ">
-                <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
-            </div>
-        </div>
         </a>
     </div>
-</div>
+
+
+    <!--New Card-->
+    <div class="col s12 m4">
+        <a href="#">
+            <div class="card   red darken-4">
+                <div class="card-content white-text">
+                    <span class="card-title">Einführung Workshop</span>
+                    <h6 class="bold">Lernziele</h6>
+                    <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
+                    <p class= "light">Vorstellen, Überblick, Ziele</p>
+                    <p class= "bold grey-text lighten-3">Workshop Thema</p>
+                    <p class= "light">Responsiv Webdesign</p>
+                    <p class= "bold grey-text lighten-3">Vortrag</p>
+                    <p class= "light">Webhistory - Das WWW - Universum</p>
+                </div>
+                <div class="card-action ">
+                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
+                </div>
+            </div>
+        </a>
+    </div>
 
 </div>
-
 
 <div class="parallax-container">
     <div class="parallax"><img src="background1.jpg"></div>
@@ -185,11 +109,330 @@ if (!isset($TPL)) {
     </div>
 </div>
 
+<!-- Test-->
+<div class="row container">
+    <!--New Card-->
+    <div class="col s12 m4">
+        <a href="#">
+            <div class="card   red darken-4">
+                <div class="card-content white-text">
+                    <span class="card-title">Einführung Workshop</span>
+                    <h6 class="bold">Lernziele</h6>
+                    <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
+                    <p class= "light">Vorstellen, Überblick, Ziele</p>
+                    <p class= "bold grey-text lighten-3">Workshop Thema</p>
+                    <p class= "light">Responsiv Webdesign</p>
+                    <p class= "bold grey-text lighten-3">Vortrag</p>
+                    <p class= "light">Webhistory - Das WWW - Universum</p>
+                </div>
+                <div class="card-action ">
+                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
+                </div>
+            </div>
+        </a>
+    </div>
+
+
+    <!--New Card-->
+    <div class="col s12 m4">
+        <a href="#">
+            <div class="card   red darken-4">
+                <div class="card-content white-text">
+                    <span class="card-title">Einführung Workshop</span>
+                    <h6 class="bold">Lernziele</h6>
+                    <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
+                    <p class= "light">Vorstellen, Überblick, Ziele</p>
+                    <p class= "bold grey-text lighten-3">Workshop Thema</p>
+                    <p class= "light">Responsiv Webdesign</p>
+                    <p class= "bold grey-text lighten-3">Vortrag</p>
+                    <p class= "light">Webhistory - Das WWW - Universum</p>
+                </div>
+                <div class="card-action ">
+                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
+                </div>
+            </div>
+        </a>
+    </div>
+
+
+    <!--New Card-->
+    <div class="col s12 m4">
+        <a href="#">
+            <div class="card   red darken-4">
+                <div class="card-content white-text">
+                    <span class="card-title">Einführung Workshop</span>
+                    <h6 class="bold">Lernziele</h6>
+                    <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
+                    <p class= "light">Vorstellen, Überblick, Ziele</p>
+                    <p class= "bold grey-text lighten-3">Workshop Thema</p>
+                    <p class= "light">Responsiv Webdesign</p>
+                    <p class= "bold grey-text lighten-3">Vortrag</p>
+                    <p class= "light">Webhistory - Das WWW - Universum</p>
+                </div>
+                <div class="card-action ">
+                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
+                </div>
+            </div>
+        </a>
+    </div>
+
+</div>
+
+<div class="parallax-container">
+    <div class="parallax"><img src="background1.jpg"></div>
+</div>
+<div class="section white">
+    <div class="row container">
+    </div>
+</div>
+
+<div class="section white">
+    <div class="row container">
+    </div>
+</div>
+<!-- Test-->
+<div class="row container">
+    <!--New Card-->
+    <div class="col s12 m4">
+        <a href="#">
+            <div class="card   red darken-4">
+                <div class="card-content white-text">
+                    <span class="card-title">Einführung Workshop</span>
+                    <h6 class="bold">Lernziele</h6>
+                    <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
+                    <p class= "light">Vorstellen, Überblick, Ziele</p>
+                    <p class= "bold grey-text lighten-3">Workshop Thema</p>
+                    <p class= "light">Responsiv Webdesign</p>
+                    <p class= "bold grey-text lighten-3">Vortrag</p>
+                    <p class= "light">Webhistory - Das WWW - Universum</p>
+                </div>
+                <div class="card-action ">
+                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
+                </div>
+            </div>
+        </a>
+    </div>
+
+
+    <!--New Card-->
+    <div class="col s12 m4">
+        <a href="#">
+            <div class="card   red darken-4">
+                <div class="card-content white-text">
+                    <span class="card-title">Einführung Workshop</span>
+                    <h6 class="bold">Lernziele</h6>
+                    <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
+                    <p class= "light">Vorstellen, Überblick, Ziele</p>
+                    <p class= "bold grey-text lighten-3">Workshop Thema</p>
+                    <p class= "light">Responsiv Webdesign</p>
+                    <p class= "bold grey-text lighten-3">Vortrag</p>
+                    <p class= "light">Webhistory - Das WWW - Universum</p>
+                </div>
+                <div class="card-action ">
+                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
+                </div>
+            </div>
+        </a>
+    </div>
+
+
+    <!--New Card-->
+    <div class="col s12 m4">
+        <a href="#">
+            <div class="card   red darken-4">
+                <div class="card-content white-text">
+                    <span class="card-title">Einführung Workshop</span>
+                    <h6 class="bold">Lernziele</h6>
+                    <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
+                    <p class= "light">Vorstellen, Überblick, Ziele</p>
+                    <p class= "bold grey-text lighten-3">Workshop Thema</p>
+                    <p class= "light">Responsiv Webdesign</p>
+                    <p class= "bold grey-text lighten-3">Vortrag</p>
+                    <p class= "light">Webhistory - Das WWW - Universum</p>
+                </div>
+                <div class="card-action ">
+                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
+                </div>
+            </div>
+        </a>
+    </div>
+
+</div>
+
+<div class="parallax-container">
+    <div class="parallax"><img src="background1.jpg"></div>
+</div>
+<div class="section white">
+    <div class="row container">
+    </div>
+</div>
+
+<div class="section white">
+    <div class="row container">
+    </div>
+</div>
+<!-- Test-->
+<div class="row container">
+    <!--New Card-->
+    <div class="col s12 m4">
+        <a href="#">
+            <div class="card   red darken-4">
+                <div class="card-content white-text">
+                    <span class="card-title">Einführung Workshop</span>
+                    <h6 class="bold">Lernziele</h6>
+                    <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
+                    <p class= "light">Vorstellen, Überblick, Ziele</p>
+                    <p class= "bold grey-text lighten-3">Workshop Thema</p>
+                    <p class= "light">Responsiv Webdesign</p>
+                    <p class= "bold grey-text lighten-3">Vortrag</p>
+                    <p class= "light">Webhistory - Das WWW - Universum</p>
+                </div>
+                <div class="card-action ">
+                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
+                </div>
+            </div>
+        </a>
+    </div>
+
+
+    <!--New Card-->
+    <div class="col s12 m4">
+        <a href="#">
+            <div class="card   red darken-4">
+                <div class="card-content white-text">
+                    <span class="card-title">Einführung Workshop</span>
+                    <h6 class="bold">Lernziele</h6>
+                    <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
+                    <p class= "light">Vorstellen, Überblick, Ziele</p>
+                    <p class= "bold grey-text lighten-3">Workshop Thema</p>
+                    <p class= "light">Responsiv Webdesign</p>
+                    <p class= "bold grey-text lighten-3">Vortrag</p>
+                    <p class= "light">Webhistory - Das WWW - Universum</p>
+                </div>
+                <div class="card-action ">
+                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
+                </div>
+            </div>
+        </a>
+    </div>
+
+
+    <!--New Card-->
+    <div class="col s12 m4">
+        <a href="#">
+            <div class="card   red darken-4">
+                <div class="card-content white-text">
+                    <span class="card-title">Einführung Workshop</span>
+                    <h6 class="bold">Lernziele</h6>
+                    <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
+                    <p class= "light">Vorstellen, Überblick, Ziele</p>
+                    <p class= "bold grey-text lighten-3">Workshop Thema</p>
+                    <p class= "light">Responsiv Webdesign</p>
+                    <p class= "bold grey-text lighten-3">Vortrag</p>
+                    <p class= "light">Webhistory - Das WWW - Universum</p>
+                </div>
+                <div class="card-action ">
+                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
+                </div>
+            </div>
+        </a>
+    </div>
+
+</div>
+<div class="parallax-container">
+    <div class="parallax"><img src="background1.jpg"></div>
+</div>
+<div class="section white">
+    <div class="row container">
+    </div>
+</div>
+
+<div class="section white">
+    <div class="row container">
+    </div>
+</div>
+<!-- Test-->
+<div class="row container">
+    <!--New Card-->
+    <div class="col s12 m4">
+        <a href="#">
+            <div class="card   red darken-4">
+                <div class="card-content white-text">
+                    <span class="card-title">Einführung Workshop</span>
+                    <h6 class="bold">Lernziele</h6>
+                    <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
+                    <p class= "light">Vorstellen, Überblick, Ziele</p>
+                    <p class= "bold grey-text lighten-3">Workshop Thema</p>
+                    <p class= "light">Responsiv Webdesign</p>
+                    <p class= "bold grey-text lighten-3">Vortrag</p>
+                    <p class= "light">Webhistory - Das WWW - Universum</p>
+                </div>
+                <div class="card-action ">
+                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
+                </div>
+            </div>
+        </a>
+    </div>
+
+
+    <!--New Card-->
+    <div class="col s12 m4">
+        <a href="#">
+            <div class="card   red darken-4">
+                <div class="card-content white-text">
+                    <span class="card-title">Einführung Workshop</span>
+                    <h6 class="bold">Lernziele</h6>
+                    <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
+                    <p class= "light">Vorstellen, Überblick, Ziele</p>
+                    <p class= "bold grey-text lighten-3">Workshop Thema</p>
+                    <p class= "light">Responsiv Webdesign</p>
+                    <p class= "bold grey-text lighten-3">Vortrag</p>
+                    <p class= "light">Webhistory - Das WWW - Universum</p>
+                </div>
+                <div class="card-action ">
+                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
+                </div>
+            </div>
+        </a>
+    </div>
+
+
+    <!--New Card-->
+    <div class="col s12 m4">
+        <a href="#">
+            <div class="card   red darken-4">
+                <div class="card-content white-text">
+                    <span class="card-title">Einführung Workshop</span>
+                    <h6 class="bold">Lernziele</h6>
+                    <p class= "bold grey-text lighten-3">Workshop Webdesign</p>
+                    <p class= "light">Vorstellen, Überblick, Ziele</p>
+                    <p class= "bold grey-text lighten-3">Workshop Thema</p>
+                    <p class= "light">Responsiv Webdesign</p>
+                    <p class= "bold grey-text lighten-3">Vortrag</p>
+                    <p class= "light">Webhistory - Das WWW - Universum</p>
+                </div>
+                <div class="card-action ">
+                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
+                </div>
+            </div>
+        </a>
+    </div>
+
+</div>
+
+<div class="section white">
+    <div class="row container">
+    </div>
+</div>
+
+
+
+
+
+
 
             <!--  Scripts-->
             <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
             <script src="js/materialize.js"></script>
             <script src="js/init.js"></script>
-                <Script>$(document).ready(function(){
-                        $('.parallax').parallax();});
-                </script>
+

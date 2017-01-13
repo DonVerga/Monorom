@@ -25,15 +25,15 @@ require_once('PageTemplate.php')
         <ul class="right hide-on-med-and-down">
             <li><a class="white-text" href="programm.php">Programm</a></li>
             <li><a class="white-text" href="umfrage.php">Umfrage</a></li>
-            <li><a class="white-text" href="#">Projekte</a></li>
+            <li><a class="white-text" href="project.php">Projekte</a></li>
             <li><a class="white-text" href="contact.php">Kontakt</a></li>
             <li><a class="white-text" href="#">Links</a></li>
         </ul>
 
         <ul id="nav-mobile" class="side-nav">
-            <li><a class="grey-text lighten-3" href="programm.php"><i class="material-icons grey-text lighten-3">event</i>Programm</a></li>
+            <li><a class="white-text" href="programm.php"><i class="material-icons grey-text lighten-3">event</i>Programm</a></li>
             <li><a class="white-text" href="umfrage.php"><i class="material-icons grey-text lighten-3">check circle</i>Umfrage</a></li>
-            <li><a class="white-text" href="#"><i class="material-icons grey-text lighten-3">work</i>Projekte</a></li>
+            <li><a class="white-text" href="project.php"><i class="material-icons grey-text lighten-3">work</i>Projekte</a></li>
             <li><a class="white-text" href="contact.php"><i class="material-icons grey-text lighten-3">contacts</i>Kontakt</a></li>
             <li><a class="white-text" href="#"><i class="material-icons grey-text lighten-3">link</i>Links</a></li>
         </ul>
@@ -54,11 +54,11 @@ require_once('PageTemplate.php')
 
 
 
-                    <a class="grey-text text-lighten-3" href="programm.php">Programm //</a>
-                    <a class="grey-text text-lighten-3" href="umfrage.php">Umfrage //</a>
-                    <a class="grey-text text-lighten-3" href="#!">Projekte //</a>
-                    <a class="grey-text text-lighten-3" href="contact.php">Kontakte //</a>
-                    <a class="grey-text text-lighten-3" href="#!">Links</a>
+                <a class="grey-text text-lighten-3" href="programm.php">Programm //</a>
+                <a class="grey-text text-lighten-3" href="umfrage.php">Umfrage //</a>
+                <a class="grey-text text-lighten-3" href="project.php">Projekte //</a>
+                <a class="grey-text text-lighten-3" href="contact.php">Kontakt //</a>
+                <a class="grey-text text-lighten-3" href="#!">Links</a>
             </div>
 
         </div>
@@ -78,4 +78,5 @@ require_once('PageTemplate.php')
         $('.parallax').parallax();
     });</script>
   </body>
+
 </html>

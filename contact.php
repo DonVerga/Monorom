@@ -11,7 +11,7 @@ require_once('PageTemplate.php');
 # trick to execute 1st time, but not 2nd so you don't have an inf loop
 if (!isset($TPL)) {
     $TPL = new PageTemplate();
-    $TPL->PageTitle = "Test";
+    $TPL->PageTitle = "Kontakt";
     $TPL->ContentBody = __FILE__;
     include "layout.php";
     exit;
@@ -42,14 +42,15 @@ if (!isset($TPL)) {
             <label for="email">Email</label>
         </div>
     </div>
-    <div class="row">
-        <form class="col s12">
+
             <div class="row">
                 <div class="input-field col s6">
                     <textarea id="textarea1" class="materialize-textarea"></textarea>
                     <label for="textarea1">Textarea</label>
                 </div>
             </div>
-        </form>
-    </div>
+
 </form>
+
+<script>  $('#textarea1').val('New Text');
+    $('#textarea1').trigger('autoresize');</script>
