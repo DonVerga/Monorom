@@ -10,11 +10,12 @@ require_once('PageTemplate.php');
 # trick to execute 1st time, but not 2nd so you don't have an inf loop
 if (!isset($TPL)) {
     $TPL = new PageTemplate();
-    $TPL->PageTitle = "Programm";
+    $TPL->PageTitle = "Lession1";
     $TPL->ContentBody = __FILE__;
     include "layout.php";
     exit;
 }
+
 ?>
 
 <div class="parallax-container">
@@ -36,7 +37,7 @@ if (!isset($TPL)) {
 <div class="row container">
     <!--New Card-->
     <div class="col s12 m4">
-        <a href="#">
+        <a href="Lesson1.php">
             <div class="card   red darken-4">
                 <div class="card-content white-text">
                     <span class="card-title">Einführung Workshop</span>
@@ -47,9 +48,6 @@ if (!isset($TPL)) {
                     <p class= "light">Responsiv Webdesign</p>
                     <p class= "bold grey-text lighten-3">Vortrag</p>
                     <p class= "light">Webhistory - Das WWW - Universum</p>
-                </div>
-                <div class="card-action ">
-                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
                 </div>
             </div>
         </a>
@@ -70,9 +68,6 @@ if (!isset($TPL)) {
                     <p class= "bold grey-text lighten-3">Vortrag</p>
                     <p class= "light">Webhistory - Das WWW - Universum</p>
                 </div>
-                <div class="card-action ">
-                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
-                </div>
             </div>
         </a>
     </div>
@@ -91,9 +86,6 @@ if (!isset($TPL)) {
                     <p class= "light">Responsiv Webdesign</p>
                     <p class= "bold grey-text lighten-3">Vortrag</p>
                     <p class= "light">Webhistory - Das WWW - Universum</p>
-                </div>
-                <div class="card-action ">
-                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
                 </div>
             </div>
         </a>
@@ -125,9 +117,6 @@ if (!isset($TPL)) {
                     <p class= "bold grey-text lighten-3">Vortrag</p>
                     <p class= "light">Webhistory - Das WWW - Universum</p>
                 </div>
-                <div class="card-action ">
-                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
-                </div>
             </div>
         </a>
     </div>
@@ -147,9 +136,6 @@ if (!isset($TPL)) {
                     <p class= "bold grey-text lighten-3">Vortrag</p>
                     <p class= "light">Webhistory - Das WWW - Universum</p>
                 </div>
-                <div class="card-action ">
-                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
-                </div>
             </div>
         </a>
     </div>
@@ -168,9 +154,6 @@ if (!isset($TPL)) {
                     <p class= "light">Responsiv Webdesign</p>
                     <p class= "bold grey-text lighten-3">Vortrag</p>
                     <p class= "light">Webhistory - Das WWW - Universum</p>
-                </div>
-                <div class="card-action ">
-                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
                 </div>
             </div>
         </a>
@@ -206,9 +189,6 @@ if (!isset($TPL)) {
                     <p class= "bold grey-text lighten-3">Vortrag</p>
                     <p class= "light">Webhistory - Das WWW - Universum</p>
                 </div>
-                <div class="card-action ">
-                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
-                </div>
             </div>
         </a>
     </div>
@@ -228,9 +208,6 @@ if (!isset($TPL)) {
                     <p class= "bold grey-text lighten-3">Vortrag</p>
                     <p class= "light">Webhistory - Das WWW - Universum</p>
                 </div>
-                <div class="card-action ">
-                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
-                </div>
             </div>
         </a>
     </div>
@@ -249,9 +226,6 @@ if (!isset($TPL)) {
                     <p class= "light">Responsiv Webdesign</p>
                     <p class= "bold grey-text lighten-3">Vortrag</p>
                     <p class= "light">Webhistory - Das WWW - Universum</p>
-                </div>
-                <div class="card-action ">
-                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
                 </div>
             </div>
         </a>
@@ -287,9 +261,6 @@ if (!isset($TPL)) {
                     <p class= "bold grey-text lighten-3">Vortrag</p>
                     <p class= "light">Webhistory - Das WWW - Universum</p>
                 </div>
-                <div class="card-action ">
-                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
-                </div>
             </div>
         </a>
     </div>
@@ -309,9 +280,6 @@ if (!isset($TPL)) {
                     <p class= "bold grey-text lighten-3">Vortrag</p>
                     <p class= "light">Webhistory - Das WWW - Universum</p>
                 </div>
-                <div class="card-action ">
-                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
-                </div>
             </div>
         </a>
     </div>
@@ -330,9 +298,6 @@ if (!isset($TPL)) {
                     <p class= "light">Responsiv Webdesign</p>
                     <p class= "bold grey-text lighten-3">Vortrag</p>
                     <p class= "light">Webhistory - Das WWW - Universum</p>
-                </div>
-                <div class="card-action ">
-                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
                 </div>
             </div>
         </a>
@@ -367,9 +332,6 @@ if (!isset($TPL)) {
                     <p class= "bold grey-text lighten-3">Vortrag</p>
                     <p class= "light">Webhistory - Das WWW - Universum</p>
                 </div>
-                <div class="card-action ">
-                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
-                </div>
             </div>
         </a>
     </div>
@@ -389,9 +351,6 @@ if (!isset($TPL)) {
                     <p class= "bold grey-text lighten-3">Vortrag</p>
                     <p class= "light">Webhistory - Das WWW - Universum</p>
                 </div>
-                <div class="card-action ">
-                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
-                </div>
             </div>
         </a>
     </div>
@@ -410,9 +369,6 @@ if (!isset($TPL)) {
                     <p class= "light">Responsiv Webdesign</p>
                     <p class= "bold grey-text lighten-3">Vortrag</p>
                     <p class= "light">Webhistory - Das WWW - Universum</p>
-                </div>
-                <div class="card-action ">
-                    <a class="grey-text lighten-3" href="#">Wichtigste Inhalte</a>
                 </div>
             </div>
         </a>
