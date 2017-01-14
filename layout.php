@@ -27,7 +27,7 @@ require_once('PageTemplate.php')
             <li><a class="white-text" href="umfrage.php">Umfrage</a></li>
             <li><a class="white-text" href="project.php">Projekte</a></li>
             <li><a class="white-text" href="contact.php">Kontakt</a></li>
-            <li><a class="white-text" href="#">Links</a></li>
+            <li><a class="white-text" href="links.php">Links</a></li>
         </ul>
 
         <ul id="nav-mobile" class="side-nav">
@@ -35,7 +35,7 @@ require_once('PageTemplate.php')
             <li><a class="white-text" href="umfrage.php"><i class="material-icons grey-text lighten-3">check circle</i>Umfrage</a></li>
             <li><a class="white-text" href="project.php"><i class="material-icons grey-text lighten-3">work</i>Projekte</a></li>
             <li><a class="white-text" href="contact.php"><i class="material-icons grey-text lighten-3">contacts</i>Kontakt</a></li>
-            <li><a class="white-text" href="#"><i class="material-icons grey-text lighten-3">link</i>Links</a></li>
+            <li><a class="white-text" href="links.php"><i class="material-icons grey-text lighten-3">link</i>Links</a></li>
         </ul>
         <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons brand-logo white-text">menu</i></a>
 
@@ -58,7 +58,7 @@ require_once('PageTemplate.php')
                 <a class="grey-text text-lighten-3" href="umfrage.php">Umfrage //</a>
                 <a class="grey-text text-lighten-3" href="project.php">Projekte //</a>
                 <a class="grey-text text-lighten-3" href="contact.php">Kontakt //</a>
-                <a class="grey-text text-lighten-3" href="#!">Links</a>
+                <a class="grey-text text-lighten-3" href="links.php">Links</a>
             </div>
 
         </div>
