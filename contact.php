@@ -55,13 +55,12 @@ if (!isset($TPL)) {
 </form>
 </div>
 
-<div class="right-align">
+<div class="right-align small container">
 <!--image (background2.jpg)-->
 <img src="background2.jpg"
-     height="137" width="175" />
+     height="350" width="220" />
 </div>
 </section>
 
-<script>  $('#textarea1').val('New Text');
-    $('#textarea1').trigger('autoresize');</script>
+
 
