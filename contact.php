@@ -23,6 +23,9 @@ if (!isset($TPL)) {
     </div>
 </div>
 
+
+<section id="image">
+<div class="container left">
 <form class="container col s12">
     <div class="row">
         <div class="input-field col s6 m3">
@@ -49,8 +52,16 @@ if (!isset($TPL)) {
                     <label for="textarea1">Textarea</label>
                 </div>
             </div>
-
 </form>
+</div>
+
+<div class="right-align">
+<!--image (background2.jpg)-->
+<img src="background2.jpg"
+     height="137" width="175" />
+</div>
+</section>
 
 <script>  $('#textarea1').val('New Text');
     $('#textarea1').trigger('autoresize');</script>
+
