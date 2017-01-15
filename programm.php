@@ -56,7 +56,7 @@ if (!isset($TPL)) {
 
     <!--New Card-->
     <div class="col s12 m4">
-        <a href="#">
+        <a href="Lesson2.php">
             <div class="card   red darken-4">
                 <div class="card-content white-text">
                     <span class="card-title">Einführung Workshop</span>
@@ -75,7 +75,7 @@ if (!isset($TPL)) {
 
     <!--New Card-->
     <div class="col s12 m4">
-        <a href="#">
+        <a href="Lesson3.php">
             <div class="card   red darken-4">
                 <div class="card-content white-text">
                     <span class="card-title">Einführung Workshop</span>
