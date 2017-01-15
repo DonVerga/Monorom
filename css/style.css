@@ -103,14 +103,7 @@ footer.page-footer {
   color: #0087AC;
 }
 
-/*image styling*/
-img{
-  background-image: url("/background2.jpg");
-  background-attachment: scroll;
-  height: 500px;
-  width: 600px;
-  padding-right: 200px;
-}
+
 
 section{
   display: flex;
