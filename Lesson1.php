@@ -242,5 +242,6 @@ if (!isset($TPL)) {
         Bitte beantworte die Umfrage zum «Workshop Webdesign» bis zum Freitag 23. September 2016.
         Die Antworten werden am zweiten Workshop-Tag präsentiert.
     </p>
+    <h4><a href="Lesson2">Nächste Seite >></a> </h4>
 </div>
 
